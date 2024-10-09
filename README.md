@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm K. Sridevi! 👋
 
-<!--
-**Sridevi-1714/Sridevi-1714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a *Bachelor of Technology in Computer Science Engineering* at Keshav Memorial Engineering College, a sister concern of **Keshav Memorial Institute of Technology*.
 
-Here are some ideas to get you started:
+🌐 I'm proficient in *HTML* and CSS, and continuously learning new skills in **web development*.  
+🤖 I'm exploring the fascinating world of *Artificial Intelligence (AI)* and a *beginner* in *Data Structures and Algorithms (DSA)*.  
+💡 Aspiring software engineer with a passion for solving complex problems and creating innovative solutions.  
+🌱 Always eager to learn and grow as I dive deeper into technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills:
+- *Languages:* C, Python
+- Web Development: HTML, CSS
+- *Currently Learning:* DSA with Java
+
+## 🤝 I’m looking for help with:
+- *Data Structures and Algorithms* practice and optimization
+
+## 🌱 I’m currently learning:
+- DSA with Java
+
+## 📫 How to reach me:
+- Email: [kosurusridevi1@gmail.com](mailto:kosurusridevi1@gmail.com)
+
+## 🌐 Let's Connect:
+- GitHub: [@sridevi-1714](https://github.com/sridevi-1714)
+- Twitter: [@sridevi_1714](https://twitter.com/sridevi_1714)
+- LinkedIn: [Sridevi Kosuru](https://linkedin.com/in/sridevi-kosuru)
